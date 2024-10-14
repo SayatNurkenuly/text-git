@@ -1,3 +1,3 @@
 print("sayat")
-x=5
+x=6
 print(x)
